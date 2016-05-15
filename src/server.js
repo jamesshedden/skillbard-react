@@ -8,7 +8,7 @@ import httpProxy from 'http-proxy';
 import path from 'path';
 import createStore from './redux/create';
 import ApiClient from './helpers/ApiClient';
-import Html from './helpers/html';
+import Html from './helpers/Html';
 import PrettyError from 'pretty-error';
 import http from 'http';
 
